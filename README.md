@@ -7,7 +7,7 @@ $ clang-pudge -p <build_path> -output-file <output_json_file> <source0> ...
 ```
 
 The output JSON format is as below:
-```json
+```
 {
   <file_path>: [
   {
